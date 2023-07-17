@@ -1,6 +1,6 @@
-![Project Banner](Banner IA 2.jpg)
+# Segmentación de Caries en Radiografías Panorámicas 
 
-# Segmentación de Caries en Radiografías Panorámicas  
+![Project Banner](BannerIA2.jpg) 
 
 **Autores**:</br>
 Andres Julian Garcia Rueda, Juan Felipe Velandia Naranjo
