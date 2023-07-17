@@ -1,3 +1,5 @@
+![Project Banner](Banner IA 2.jpg)
+
 # Segmentación de Caries en Radiografías Panorámicas  
 
 **Autores**:</br>
