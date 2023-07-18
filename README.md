@@ -18,5 +18,5 @@ UNET
 
 **Código**: https://colab.research.google.com/drive/1aVgEIwwyVbHfaq_-LhfYjT-lC80pKQKx?usp=sharing</br>
 **Modelo**: https://drive.google.com/file/d/1iMybRGiSxmAWquQcrot-sRDYfh_XNYLe/view?usp=sharing</br>
-**Video**: placeholder</br>
+**Video**: https://youtu.be/MWYqlGXyuCg</br>
 **Repositorio**: https://github.com/FelipeVelandia/Proyecto-IA2</br>
